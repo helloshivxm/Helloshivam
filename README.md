@@ -8,9 +8,9 @@ I am currently building real-world analytics projects focused on solving busines
 
 # What I'm Working On
 
-- Customer Churn Analytics
-- Customer Support Operations Analytics
-- Retail Profitability Analytics
+- Customer Churn Analytics (Telecom)
+- Customer Support Operations Analytics (BPO)
+- Retail Profitability Analytics (Retail)
 
 ---
 
@@ -27,7 +27,7 @@ I am currently building real-world analytics projects focused on solving busines
 
 # Current Goal
 
-To build a portfolio that demonstrates how data can drive business decisions and measurable business impact.
+To become a Business Analyst who helps organizations make smarter decisions through data, analytics and technology.
 
 ---
 
