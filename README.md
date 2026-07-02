@@ -8,9 +8,9 @@ I am currently building real-world analytics projects focused on solving busines
 
 # What I'm Working On
 
-- Customer Churn Analytics (Telecom)
-- Customer Support Operations Analytics (BPO)
-- Retail Profitability Analytics (Retail)
+- IBM Telecom Customer Churn Analytics
+- Instacart Customer Behaviour & Market Basket Analysis 
+- AI Powered Customer Growth Intelligence Engine 
 
 ---
 
@@ -22,6 +22,7 @@ I am currently building real-world analytics projects focused on solving busines
 - Business Analysis
 - Data Visualization
 - Python 
+- Machine Learning 
 
 ---
 
